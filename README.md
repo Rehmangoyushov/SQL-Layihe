@@ -5,3 +5,5 @@ Bu layihədə Kaggledən götürülmüş satış məlumatları Power BI vasitəs
 İstifadə olunan alətlər
 * Power BI: Data cleaning və Vizualizasiya
 * SQL: Məlumatların sorğulanması
+
+![Satış Dashboardu](https://github.com/Rehmangoyushov/SQL-Layihe/blob/main/Dashboard_Sales.jpeg?raw=true)
